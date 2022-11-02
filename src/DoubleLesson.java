@@ -31,5 +31,6 @@ public class DoubleLesson {
         // символьный тип данных
 
         // логический тип данных
+        System.out.println("TestTest");
     }
 }
